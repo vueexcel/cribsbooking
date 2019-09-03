@@ -1,0 +1,37 @@
+.container {
+    min-height: 100vh;
+  }
+  .p-ud {
+    padding: 30px 0px;
+  }
+  .p-footer {
+    padding: 45px 0px;
+  }
+  .list-container {
+    height: 582px;
+    overflow-y: scroll;
+  }
+  .list-background .list-group-item {
+    background-color: #252525;
+  }
+  .custom-select {
+    color: #fff;
+    background-color: #404040;
+    border-color: #404040;
+  }
+  .container_list {
+    color: #fff;
+    list-style: none;
+  }
+  .container_list li {
+    display: inline-block;
+    padding: 0 2rem;
+  }
+  .container_list li img {
+    margin: 0 auto;
+  }
+  .btn-success {
+    background: #9a9f49;
+    border: #9a9f49;
+    padding: 0.5rem 5rem;
+  }
